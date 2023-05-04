@@ -1,0 +1,88 @@
+cs1302-arcade:
+total 92
+-rw-r--r-- 1 ugrad   647 May  7 14:04 ATTRIBUTION.md
+-rw-r--r-- 1 ugrad 19121 May  7 14:04 LICENSE
+-rw-r--r-- 1 ugrad   216 May  7 14:04 Makefile
+-rw-r--r-- 1 ugrad  1942 May  7 14:04 pom.xml
+-rw-r--r-- 1 ugrad 52434 May  7 14:04 README.md
+-rw-r--r-- 1 ugrad     0 May  7 14:05 rec22408
+-rw-r--r-- 1 ugrad  1908 May  7 14:04 REFLECTION.md
+drwxr-xr-x 3 ugrad  4096 May  7 14:04 src
+
+cs1302-arcade/src:
+total 4
+drwxr-xr-x 4 ugrad 4096 May  7 14:04 main
+
+cs1302-arcade/src/main:
+total 8
+drwxr-xr-x 3 ugrad 4096 May  7 14:04 java
+drwxr-xr-x 4 ugrad 4096 May  7 14:04 resources
+
+cs1302-arcade/src/main/java:
+total 4
+drwxr-xr-x 3 ugrad 4096 May  7 14:04 cs1302
+
+cs1302-arcade/src/main/java/cs1302:
+total 4
+drwxr-xr-x 4 ugrad 4096 May  7 14:04 arcade
+
+cs1302-arcade/src/main/java/cs1302/arcade:
+total 20
+-rw-r--r-- 1 ugrad 4271 May  7 14:04 ArcadeApp.java
+-rw-r--r-- 1 ugrad  834 May  7 14:04 ArcadeDriver.java
+drwxr-xr-x 2 ugrad 4096 May  7 14:04 game
+drwxr-xr-x 2 ugrad 4096 May  7 14:04 util
+
+cs1302-arcade/src/main/java/cs1302/arcade/game:
+total 52
+-rw-r--r-- 1 ugrad 15150 May  7 14:04 FroggerInterface.java
+-rw-r--r-- 1 ugrad  2667 May  7 14:04 FroggerObstacle.java
+-rw-r--r-- 1 ugrad  3363 May  7 14:04 FroggerPlayer.java
+-rw-r--r-- 1 ugrad  1281 May  7 14:04 Tile.java
+-rw-r--r-- 1 ugrad 12731 May  7 14:04 TwentyGame.java
+-rw-r--r-- 1 ugrad  6693 May  7 14:04 TwentyInterface.java
+
+cs1302-arcade/src/main/java/cs1302/arcade/util:
+total 8
+-rw-r--r-- 1 ugrad 1834 May  7 14:04 ArcadeLogger.java
+-rw-r--r-- 1 ugrad 1315 May  7 14:04 ArcadeMenuBar.java
+
+cs1302-arcade/src/main/resources:
+total 8
+drwxr-xr-x 2 ugrad 4096 May  7 14:04 2048
+drwxr-xr-x 2 ugrad 4096 May  7 14:04 frogger
+
+cs1302-arcade/src/main/resources/2048:
+total 60
+-rw-r--r-- 1 ugrad  2280 May  7 14:04 1024.png
+-rw-r--r-- 1 ugrad  2434 May  7 14:04 128.png
+-rw-r--r-- 1 ugrad  1981 May  7 14:04 16.png
+-rw-r--r-- 1 ugrad  2951 May  7 14:04 2048.png
+-rw-r--r-- 1 ugrad  2831 May  7 14:04 256.png
+-rw-r--r-- 1 ugrad  1530 May  7 14:04 2.png
+-rw-r--r-- 1 ugrad  2503 May  7 14:04 32.png
+-rw-r--r-- 1 ugrad  1134 May  7 14:04 4.png
+-rw-r--r-- 1 ugrad  2159 May  7 14:04 512.png
+-rw-r--r-- 1 ugrad  2355 May  7 14:04 64.png
+-rw-r--r-- 1 ugrad  1956 May  7 14:04 8.png
+-rw-r--r-- 1 ugrad 14351 May  7 14:04 board.png
+
+cs1302-arcade/src/main/resources/frogger:
+total 372
+-rw-r--r-- 1 ugrad 177817 May  7 14:04 asset_sheet.png
+-rw-r--r-- 1 ugrad   7126 May  7 14:04 frog1.png
+-rw-r--r-- 1 ugrad   7334 May  7 14:04 frog2.png
+-rw-r--r-- 1 ugrad   7367 May  7 14:04 frog3.png
+-rw-r--r-- 1 ugrad  46401 May  7 14:04 level_old.png
+-rw-r--r-- 1 ugrad  51053 May  7 14:04 level.png
+-rw-r--r-- 1 ugrad   6347 May  7 14:04 log0.png
+-rw-r--r-- 1 ugrad   7620 May  7 14:04 log1.png
+-rw-r--r-- 1 ugrad   4361 May  7 14:04 log2.png
+-rw-r--r-- 1 ugrad   3055 May  7 14:04 skull.png
+-rw-r--r-- 1 ugrad   3213 May  7 14:04 turtle.png
+-rw-r--r-- 1 ugrad   4352 May  7 14:04 vehicle0.png
+-rw-r--r-- 1 ugrad   5440 May  7 14:04 vehicle1.png
+-rw-r--r-- 1 ugrad   6422 May  7 14:04 vehicle2.png
+-rw-r--r-- 1 ugrad   5263 May  7 14:04 vehicle3.png
+-rw-r--r-- 1 ugrad   5189 May  7 14:04 vehicle4.png
+/home/ugrads/whitej/cs1302_1/projects/cs1302-arcade:/home/work/cs1302a
